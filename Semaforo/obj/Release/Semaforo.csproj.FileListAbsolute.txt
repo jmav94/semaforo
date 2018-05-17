@@ -1,0 +1,8 @@
+C:\Users\Cris\Documents\Universidad\7mo Semestre\Sistemas Programables\Semaforo\Semaforo\Semaforo\bin\Release\Semaforo.exe.config
+C:\Users\Cris\Documents\Universidad\7mo Semestre\Sistemas Programables\Semaforo\Semaforo\Semaforo\bin\Release\Semaforo.exe
+C:\Users\Cris\Documents\Universidad\7mo Semestre\Sistemas Programables\Semaforo\Semaforo\Semaforo\bin\Release\Semaforo.pdb
+C:\Users\Cris\Documents\Universidad\7mo Semestre\Sistemas Programables\Semaforo\Semaforo\Semaforo\obj\Release\Semaforo.Form1.resources
+C:\Users\Cris\Documents\Universidad\7mo Semestre\Sistemas Programables\Semaforo\Semaforo\Semaforo\obj\Release\Semaforo.Properties.Resources.resources
+C:\Users\Cris\Documents\Universidad\7mo Semestre\Sistemas Programables\Semaforo\Semaforo\Semaforo\obj\Release\Semaforo.csproj.GenerateResource.Cache
+C:\Users\Cris\Documents\Universidad\7mo Semestre\Sistemas Programables\Semaforo\Semaforo\Semaforo\obj\Release\Semaforo.exe
+C:\Users\Cris\Documents\Universidad\7mo Semestre\Sistemas Programables\Semaforo\Semaforo\Semaforo\obj\Release\Semaforo.pdb

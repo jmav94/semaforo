@@ -1,0 +1,73 @@
+C:\Users\Cris\Documents\Universidad\7mo Semestre\Sistemas Programables\Semaforo\Semaforo\Semaforo\bin\Debug\Semaforo.exe.config
+C:\Users\Cris\Documents\Universidad\7mo Semestre\Sistemas Programables\Semaforo\Semaforo\Semaforo\bin\Debug\Semaforo.exe
+C:\Users\Cris\Documents\Universidad\7mo Semestre\Sistemas Programables\Semaforo\Semaforo\Semaforo\bin\Debug\Semaforo.pdb
+C:\Users\Cris\Documents\Universidad\7mo Semestre\Sistemas Programables\Semaforo\Semaforo\Semaforo\obj\Debug\Semaforo.Properties.Resources.resources
+C:\Users\Cris\Documents\Universidad\7mo Semestre\Sistemas Programables\Semaforo\Semaforo\Semaforo\obj\Debug\Semaforo.csproj.GenerateResource.Cache
+C:\Users\Cris\Documents\Universidad\7mo Semestre\Sistemas Programables\Semaforo\Semaforo\Semaforo\obj\Debug\Semaforo.exe
+C:\Users\Cris\Documents\Universidad\7mo Semestre\Sistemas Programables\Semaforo\Semaforo\Semaforo\obj\Debug\Semaforo.pdb
+C:\Users\Cris\Documents\Universidad\7mo Semestre\Sistemas Programables\Semaforo\Semaforo\Semaforo\obj\Debug\Semaforo.Semaforos.resources
+C:\Users\Cris\Documents\Universidad\7mo Semestre\Sistemas Programables\Semaforo\Semaforo\Semaforo\obj\Debug\Semaforo.csprojResolveAssemblyReference.cache
+C:\Users\MilDreD\Documents\8vo Semestre\Semaforo\Semaforo\bin\Debug\Semaforo.exe.config
+C:\Users\MilDreD\Documents\8vo Semestre\Semaforo\Semaforo\obj\Debug\Semaforo.exe
+C:\Users\MilDreD\Documents\8vo Semestre\Semaforo\Semaforo\obj\Debug\Semaforo.pdb
+C:\Users\MilDreD\Documents\8vo Semestre\Semaforo\Semaforo\bin\Debug\Semaforo.exe
+C:\Users\MilDreD\Documents\8vo Semestre\Semaforo\Semaforo\bin\Debug\Semaforo.pdb
+C:\Users\MilDreD\Documents\8vo Semestre\Semaforo\Semaforo\obj\Debug\Semaforo.csprojResolveAssemblyReference.cache
+C:\Users\MilDreD\Documents\8vo Semestre\Semaforo\Semaforo\obj\Debug\Semaforo.Semaforos.resources
+C:\Users\MilDreD\Documents\8vo Semestre\Semaforo\Semaforo\obj\Debug\Semaforo.Properties.Resources.resources
+C:\Users\MilDreD\Documents\8vo Semestre\Semaforo\Semaforo\obj\Debug\Semaforo.csproj.GenerateResource.Cache
+C:\Users\MilDreD\Documents\8vo Semestre\Sistemas Programables\Semaforo\Semaforo\bin\Debug\Semaforo.exe.config
+C:\Users\MilDreD\Documents\8vo Semestre\Sistemas Programables\Semaforo\Semaforo\obj\Debug\Semaforo.exe
+C:\Users\MilDreD\Documents\8vo Semestre\Sistemas Programables\Semaforo\Semaforo\obj\Debug\Semaforo.pdb
+C:\Users\MilDreD\Documents\8vo Semestre\Sistemas Programables\Semaforo\Semaforo\bin\Debug\Semaforo.exe
+C:\Users\MilDreD\Documents\8vo Semestre\Sistemas Programables\Semaforo\Semaforo\bin\Debug\Semaforo.pdb
+C:\Users\MilDreD\Documents\8vo Semestre\Sistemas Programables\Semaforo\Semaforo\obj\Debug\Semaforo.csprojResolveAssemblyReference.cache
+C:\Users\MilDreD\Documents\8vo Semestre\Sistemas Programables\Semaforo\Semaforo\obj\Debug\Semaforo.Semaforos.resources
+C:\Users\MilDreD\Documents\8vo Semestre\Sistemas Programables\Semaforo\Semaforo\obj\Debug\Semaforo.Properties.Resources.resources
+C:\Users\MilDreD\Documents\8vo Semestre\Sistemas Programables\Semaforo\Semaforo\obj\Debug\Semaforo.csproj.GenerateResource.Cache
+C:\Users\SEGURAW10\Documents\7mo Semestre\Sistemas Programables\upsis\semaforovecina\Semaforo\Semaforo\bin\Debug\Semaforo.exe.config
+C:\Users\SEGURAW10\Documents\7mo Semestre\Sistemas Programables\upsis\semaforovecina\Semaforo\Semaforo\obj\Debug\Semaforo.exe
+C:\Users\SEGURAW10\Documents\7mo Semestre\Sistemas Programables\upsis\semaforovecina\Semaforo\Semaforo\obj\Debug\Semaforo.pdb
+C:\Users\SEGURAW10\Documents\7mo Semestre\Sistemas Programables\upsis\semaforovecina\Semaforo\Semaforo\bin\Debug\Semaforo.exe
+C:\Users\SEGURAW10\Documents\7mo Semestre\Sistemas Programables\upsis\semaforovecina\Semaforo\Semaforo\bin\Debug\Semaforo.pdb
+C:\Users\SEGURAW10\Documents\7mo Semestre\Sistemas Programables\upsis\semaforovecina\Semaforo\Semaforo\obj\Debug\Semaforo.csprojResolveAssemblyReference.cache
+C:\Users\SEGURAW10\Documents\7mo Semestre\Sistemas Programables\upsis\semaforovecina\Semaforo\Semaforo\obj\Debug\Semaforo.Semaforos.resources
+C:\Users\SEGURAW10\Documents\7mo Semestre\Sistemas Programables\upsis\semaforovecina\Semaforo\Semaforo\obj\Debug\Semaforo.Properties.Resources.resources
+C:\Users\SEGURAW10\Documents\7mo Semestre\Sistemas Programables\upsis\semaforovecina\Semaforo\Semaforo\obj\Debug\Semaforo.csproj.GenerateResource.Cache
+C:\Users\SEGURAW10\Documents\7mo Semestre\Sistemas Programables\upsis\semaforovecina NO MOVER\Semaforo\Semaforo\bin\Debug\Semaforo.exe.config
+C:\Users\SEGURAW10\Documents\7mo Semestre\Sistemas Programables\upsis\semaforovecina NO MOVER\Semaforo\Semaforo\obj\Debug\Semaforo.exe
+C:\Users\SEGURAW10\Documents\7mo Semestre\Sistemas Programables\upsis\semaforovecina NO MOVER\Semaforo\Semaforo\obj\Debug\Semaforo.pdb
+C:\Users\SEGURAW10\Desktop\PRUEBA 1\Semaforo\Semaforo\bin\Debug\Semaforo.exe.config
+C:\Users\SEGURAW10\Desktop\PRUEBA 1\Semaforo\Semaforo\bin\Debug\Semaforo.exe
+C:\Users\SEGURAW10\Desktop\PRUEBA 1\Semaforo\Semaforo\bin\Debug\Semaforo.pdb
+C:\Users\SEGURAW10\Desktop\PRUEBA 1\Semaforo\Semaforo\obj\Debug\Semaforo.csprojResolveAssemblyReference.cache
+C:\Users\SEGURAW10\Desktop\PRUEBA 1\Semaforo\Semaforo\obj\Debug\Semaforo.Semaforos.resources
+C:\Users\SEGURAW10\Desktop\PRUEBA 1\Semaforo\Semaforo\obj\Debug\Semaforo.Properties.Resources.resources
+C:\Users\SEGURAW10\Desktop\PRUEBA 1\Semaforo\Semaforo\obj\Debug\Semaforo.csproj.GenerateResource.Cache
+C:\Users\SEGURAW10\Desktop\PRUEBA 1\Semaforo\Semaforo\obj\Debug\Semaforo.exe
+C:\Users\SEGURAW10\Desktop\PRUEBA 1\Semaforo\Semaforo\obj\Debug\Semaforo.pdb
+D:\Documents\ITNL\10mo\Sistemas Programables\Gaby\Practica #3 Semaforo\PRUEBA 1\PRUEBA 1\Semaforo\Semaforo\bin\Debug\Semaforo.exe.config
+D:\Documents\ITNL\10mo\Sistemas Programables\Gaby\Practica #3 Semaforo\PRUEBA 1\PRUEBA 1\Semaforo\Semaforo\bin\Debug\Semaforo.exe
+D:\Documents\ITNL\10mo\Sistemas Programables\Gaby\Practica #3 Semaforo\PRUEBA 1\PRUEBA 1\Semaforo\Semaforo\bin\Debug\Semaforo.pdb
+D:\Documents\ITNL\10mo\Sistemas Programables\Gaby\Practica #3 Semaforo\PRUEBA 1\PRUEBA 1\Semaforo\Semaforo\obj\Debug\Semaforo.csprojAssemblyReference.cache
+D:\Documents\ITNL\10mo\Sistemas Programables\Gaby\Practica #3 Semaforo\PRUEBA 1\PRUEBA 1\Semaforo\Semaforo\obj\Debug\Semaforo.Semaforos.resources
+D:\Documents\ITNL\10mo\Sistemas Programables\Gaby\Practica #3 Semaforo\PRUEBA 1\PRUEBA 1\Semaforo\Semaforo\obj\Debug\Semaforo.Properties.Resources.resources
+D:\Documents\ITNL\10mo\Sistemas Programables\Gaby\Practica #3 Semaforo\PRUEBA 1\PRUEBA 1\Semaforo\Semaforo\obj\Debug\Semaforo.csproj.GenerateResource.cache
+D:\Documents\ITNL\10mo\Sistemas Programables\Gaby\Practica #3 Semaforo\PRUEBA 1\PRUEBA 1\Semaforo\Semaforo\obj\Debug\Semaforo.csproj.CoreCompileInputs.cache
+D:\Documents\ITNL\10mo\Sistemas Programables\Gaby\Practica #3 Semaforo\PRUEBA 1\PRUEBA 1\Semaforo\Semaforo\obj\Debug\Semaforo.exe
+D:\Documents\ITNL\10mo\Sistemas Programables\Gaby\Practica #3 Semaforo\PRUEBA 1\PRUEBA 1\Semaforo\Semaforo\obj\Debug\Semaforo.pdb
+D:\Documents\ITNL\10mo\Sistemas Programables\Semaforo\Semaforo\obj\Debug\Semaforo.csprojAssemblyReference.cache
+D:\Documents\ITNL\10mo\Sistemas Programables\Semaforo\Semaforo\obj\Debug\Semaforo.Semaforos.resources
+D:\Documents\ITNL\10mo\Sistemas Programables\Semaforo\Semaforo\obj\Debug\Semaforo.Properties.Resources.resources
+D:\Documents\ITNL\10mo\Sistemas Programables\Semaforo\Semaforo\obj\Debug\Semaforo.csproj.GenerateResource.cache
+D:\Documents\ITNL\10mo\Sistemas Programables\Semaforo\Semaforo\obj\Debug\Semaforo.csproj.CoreCompileInputs.cache
+D:\Documents\ITNL\10mo\Sistemas Programables\Semaforo\Semaforo\obj\Debug\Semaforo.TrustInfo.xml
+D:\Documents\ITNL\10mo\Sistemas Programables\Semaforo\Semaforo\obj\Debug\Semaforo.exe.manifest
+D:\Documents\ITNL\10mo\Sistemas Programables\Semaforo\Semaforo\obj\Debug\Semaforo.exe
+D:\Documents\ITNL\10mo\Sistemas Programables\Semaforo\Semaforo\obj\Debug\Semaforo.pdb
+D:\Documents\ITNL\10mo\Sistemas Programables\Semaforo\Semaforo\bin\Debug\Semaforo.exe.config
+D:\Documents\ITNL\10mo\Sistemas Programables\Semaforo\Semaforo\bin\Debug\Semaforo.exe.manifest
+D:\Documents\ITNL\10mo\Sistemas Programables\Semaforo\Semaforo\bin\Debug\Semaforo.application
+D:\Documents\ITNL\10mo\Sistemas Programables\Semaforo\Semaforo\bin\Debug\Semaforo.exe
+D:\Documents\ITNL\10mo\Sistemas Programables\Semaforo\Semaforo\bin\Debug\Semaforo.pdb
+D:\Documents\ITNL\10mo\Sistemas Programables\Semaforo\Semaforo\obj\Debug\Semaforo.application
